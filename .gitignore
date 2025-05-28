@@ -4,10 +4,10 @@
 
 .mypy_cache/
 
+# Basically, this is in order to ignore everything in `.claude/` directory EXCEPT the `/add-new-resource` command. 
 .claude/
 .claude/*
 .claude/commands/*
-
 !CLAUDE.md
 !.claude/
 !.claude/commands/
