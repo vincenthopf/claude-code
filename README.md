@@ -209,6 +209,8 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 
 - [Project Workflow System](https://github.com/harperreed/dotfiles/tree/master/.claude/commands) - A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.
 
+- [Simone](https://github.com/Helmi/claude-simone) - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
+
 ## Official Documentation
 
 <!--lint disable double-link-->
