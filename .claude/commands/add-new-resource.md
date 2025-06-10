@@ -26,6 +26,10 @@ Slash-commands are instructions stored in Markdown files, wherein in the name of
 
 Workflows are a collection of two or more tightly coupled resources that work together to achieve a particular goal. They may also be a higher-level description of a particular Claude Code integration or usage pattern. For example, a `.claude/commands/` directory which contains a set of commands that a project uses to write test suites, should be categorized as a `Workflow`, instead of merely a series of individual slash-commands. The entry title should be a short descriptive name for the workflow (e.g. "Documentation Maintainer" or "Project Management Workflow"). Help the user come up with an appropriate name if they wish, and review the name that they submit if they do so.
 
+### Additional Resources
+
+Additional Resources are for other applications or tools that are layered on top of Claude Code, or somehow enhance Claude Code, but do not consist merely in Claude Code "native documents" like `CLAUDE.md` files, slash-commands, and the other parts of the official Anthropic Claude Control "control flow."
+
 ### Official Documentation
 
 Official documentation is any documentation that is provided by Anthropic, and is not a third-party resource. Generally, this would consist in links to pages on `docs.anthropic.com`, or to an Anthropic GitHub repository. You may not be able to access resources on this website yourself. These types of submissions are likely to be less frequent - small changes in documentation pages should not be submitted - instead, suggest to the user that they open an Issue in the repository to discuss the change. On the other hand, if, for example, Anthropic adds an entirely new section or resource to their documentation site, this may be worth submitting as a resource.

@@ -13,6 +13,7 @@ The list is organized into categories, and each entry should be placed in the ap
 - Slash-Commands
 - `CLAUDE.md` files
 - Workflows
+- Additional Resources
 - Official (Anthropic) Documentation
 
 Within each category, entries are listed in alphabetical order. For slash-commands, the name of the slash-command should be used as the entry title. For `CLAUDE.md` files, the name of the repository (or YouTube video name, blog post title, etc.) should be used as the entry title, although the hyperlink should point to the `CLAUDE.md` file itself (or the media that describes or contains it).
@@ -20,6 +21,8 @@ Within each category, entries are listed in alphabetical order. For slash-comman
 Each submission should contain only a single entry. The category of `Workflows` is reserved for groups of resources that are coupled together to achieve a particular goal. For exanple, a `.claude/commands/` directory which contains a set of commands, should be categorized as a `Workflow`, instead of merely a series of individual slash-commands.
 
 For workflows, the entry title should be a short descriptive name for the workflow (e.g. "Documentation Maintainer" or "Project Management Workflow"). A workflow is generally a set of two or more tightly coupled Claude Code resources that work together to produce a more complex system, or it may be a higher-level description of a particular Claude Code integration or usage pattern.
+
+"Additional Resources" is for other applications or tools that are layered on top of Claude Code, or somehow enhance Claude Code, but do not consist merely in Claude Code "native documents" like `CLAUDE.md` files, slash-commands, and the other parts of the official Anthropic Claude Control "control flow."
 
 # Prohibitions
 

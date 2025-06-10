@@ -13,6 +13,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 - [Slash-Commands](#slash-commands)
 - [CLAUDE.md Files](#claudemd-files)
 - [Workflows](#workflows)
+- [Additional Resources](#additional-resources)
 - [Official Documentation](#official-documentation)
 
 ## Slash-Commands
@@ -210,6 +211,10 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 - [Project Workflow System](https://github.com/harperreed/dotfiles/tree/master/.claude/commands) - A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.
 
 - [Simone](https://github.com/Helmi/claude-simone) - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
+
+## Additional Resources
+
+- [CC Usage](https://github.com/ryoppippi/ccusage) - handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc. [DISCLAIMER: Keep an eye on the Issues if you are relying on this tool for anything business-critical - the logs that track usage appear to suffer from some "double-counting" problems - this may have been resolved by the time you are reading this, but I wanted to raise awareness - it is not something only affecting this application.]
 
 ## Official Documentation
 
