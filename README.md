@@ -25,8 +25,6 @@
 
 <!--lint enable remark-lint:awesome-badge-->
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 <!--lint enable remark-lint:awesome-badge-->
 
 <!--lint disable double-link-->
