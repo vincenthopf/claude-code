@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Awesome Claude Code! We welcome a
 
 ## How to Contribute
 
-> **TIP!** There is a project slash-command available in this repository, which is invoked as `/add-new-resource`, which can be used like a "wizard" to help users create their submission. If you are a Claude Code user, you may run Claude Code and invoke this command to help guide you through the process of creating a PR. (NOTE: This would be using _your_ Claude Code account/tokens/etc.)
+> **TIP!** There is a project slash-command available in this repository, which is invoked as `/project:add-new-resource`, which can be used like a "wizard" to help users create their submission. If you are a Claude Code user, you may run Claude Code and invoke this command to help guide you through the process of creating a PR. (NOTE: This would be using _your_ Claude Code account/tokens/etc.)
 
 1. **You do not need to be the owner/author** of the repository or file you're submitting. We are not hosting or distributing any of these files, but linking to them. If you've found (or discovered) a useful Claude Code resource, we'd love to include it! (That being said, do not link to a secondary distribution of a source whose license prohibits redistribution.) Self-contributions are of course welcome, as well.
 
