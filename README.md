@@ -78,7 +78,7 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
 [`CC Usage`](https://github.com/ryoppippi/ccusage) by [ryoppippi](https://github.com/ryoppippi)  
-Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc. \[DISCLAIMER: Keep an eye on the Issues if you are relying on this tool for anything business-critical - the logs that track usage appear to suffer from some "double-counting" problems - this may have been resolved by the time you are reading this, but I wanted to raise awareness - it is not something only affecting this application\].
+Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.  
 
 [`Claude Code Flow`](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet)  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
@@ -103,6 +103,14 @@ A task management system for AI-driven development with Claude, designed to work
 
 [`Container Use`](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger)  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+
+### IDE Integrations
+
+[`claude-code.el`](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor)  
+An Emacs interface for Claude Code CLI.
+
+[`claude-code.nvim`](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh)  
+A seamless integration between Claude Code AI assistant and Neovim.
 
 <br>
 
